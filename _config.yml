@@ -1,0 +1,11 @@
+title: IronRank
+description: Community-verified strength rankings.
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+include:
+  - privacy.md
