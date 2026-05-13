@@ -9,3 +9,4 @@ relative_links:
   collections: false
 include:
   - privacy.md
+  - terms.md
