@@ -1,9 +1,9 @@
 ---
 layout: default
-title: IronRank
+title: Lifting League
 ---
 
-# IronRank
+# Lifting League
 
 Community-verified strength rankings.
 

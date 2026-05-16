@@ -1,8 +1,8 @@
-# IronRank Terms of Service & Community Rules
+# Lifting League Terms of Service & Community Rules
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-16_
 
-These Terms of Service ("Terms") and Community Rules govern your use of the IronRank mobile application ("IronRank", "the app"). By creating an account, you agree to these Terms.
+These Terms of Service ("Terms") and Community Rules govern your use of the Lifting League mobile application ("Lifting League", "the app"). By creating an account, you agree to these Terms.
 
 **Operator**
 Axel Grefslie
@@ -14,7 +14,7 @@ If you have questions, complaints, or want to report content or a user, contact 
 
 ## 1. Eligibility
 
-You must be at least 13 years old (or the minimum age of digital consent in your country, whichever is higher) to use IronRank. If you are under 18, you must have permission from a parent or legal guardian.
+You must be at least 13 years old (or the minimum age of digital consent in your country, whichever is higher) to use Lifting League. If you are under 18, you must have permission from a parent or legal guardian.
 
 ---
 
@@ -28,7 +28,7 @@ You must be at least 13 years old (or the minimum age of digital consent in your
 
 ## 3. User-generated content
 
-IronRank lets you upload lifts, videos, comments, and other content (collectively "User Content"). You own your User Content. By posting it on IronRank, you grant us a worldwide, non-exclusive licence to display, store, and distribute it inside the app for the purpose of operating the service.
+Lifting League lets you upload lifts, videos, comments, and other content (collectively "User Content"). You own your User Content. By posting it on Lifting League, you grant us a worldwide, non-exclusive licence to display, store, and distribute it inside the app for the purpose of operating the service.
 
 You are responsible for everything you post. Do not upload content you do not have the rights to share.
 
@@ -36,7 +36,7 @@ You are responsible for everything you post. Do not upload content you do not ha
 
 ## 4. Zero tolerance for objectionable content and abusive behaviour
 
-IronRank does not tolerate objectionable content or abusive users. The following are strictly prohibited:
+Lifting League does not tolerate objectionable content or abusive users. The following are strictly prohibited:
 
 - **Sexual or nude content** — including sexually suggestive material.
 - **Violence and gore** — graphic violence, blood, threats of violence, or content glorifying it.
@@ -74,7 +74,7 @@ We may suspend or terminate accounts that violate these Terms, abuse the service
 
 ## 7. Disclaimers
 
-IronRank is provided "as is". Lifting is inherently risky — train responsibly, consult qualified professionals, and follow safe practices. IronRank does not provide medical, fitness, or coaching advice.
+Lifting League is provided "as is". Lifting is inherently risky — train responsibly, consult qualified professionals, and follow safe practices. Lifting League does not provide medical, fitness, or coaching advice.
 
 We do not guarantee the accuracy of rank calculations, leaderboard standings, or any content posted by other users.
 
@@ -82,13 +82,13 @@ We do not guarantee the accuracy of rank calculations, leaderboard standings, or
 
 ## 8. Liability
 
-To the maximum extent permitted by law, IronRank and its operator are not liable for any indirect, incidental, or consequential damages arising from your use of the app.
+To the maximum extent permitted by law, Lifting League and its operator are not liable for any indirect, incidental, or consequential damages arising from your use of the app.
 
 ---
 
 ## 9. Changes to these Terms
 
-We may update these Terms when the app changes materially. The "Last updated" date above reflects the latest revision. Continued use of IronRank after a change constitutes acceptance of the new Terms.
+We may update these Terms when the app changes materially. The "Last updated" date above reflects the latest revision. Continued use of Lifting League after a change constitutes acceptance of the new Terms.
 
 ---
 

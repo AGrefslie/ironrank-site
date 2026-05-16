@@ -1,8 +1,8 @@
-# IronRank Privacy Policy
+# Lifting League Privacy Policy
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-16_
 
-This Privacy Policy describes how IronRank ("IronRank", "we", "us", or "the app") collects, uses, and protects your personal data when you use our mobile application. We are committed to protecting your privacy and complying with the EU General Data Protection Regulation (GDPR) and other applicable data protection laws.
+This Privacy Policy describes how Lifting League ("Lifting League", "we", "us", or "the app") collects, uses, and protects your personal data when you use our mobile application. We are committed to protecting your privacy and complying with the EU General Data Protection Regulation (GDPR) and other applicable data protection laws.
 
 **Data Controller**
 Axel Grefslie
@@ -20,16 +20,22 @@ If you have any questions about this policy or want to exercise your data protec
 - **Lift submissions**: exercise, weight, repetitions, calculated one-rep-max, and the date of each lift.
 - **Verification videos**: short video clips you upload as proof of a lift. These are visible to other users.
 - **Social content**: friend requests, gym memberships, comments, likes, and other interactions inside the app.
+- **Gym location pins**: if you create or edit a gym and choose to pin it on the map, the latitude and longitude you select are stored on the gym record so other users can find that gym in the nearby-gyms list. Pinning is optional.
 
 ### 1.2 Data collected automatically
 - **Device and usage data**: device model, operating system version, app version, language, time zone, crash reports, and basic usage analytics.
 - **Advertising identifiers**: the iOS Identifier for Advertisers (IDFA) and the Android Advertising ID (AAID), used by our advertising partner (Google AdMob) to serve ads. On iOS, this identifier is only used if you grant App Tracking Transparency permission.
 - **IP address and network metadata**: collected by our infrastructure providers for security, abuse prevention, and ad delivery.
 
-### 1.3 Data we do not collect
-- We do not collect precise location data.
+### 1.3 Location data (only when you opt in)
+- The app requests your device's approximate location **only** when you (a) tap "Pin on Map" while creating or editing a gym, or (b) open the gyms directory with location permission enabled to sort gyms by distance.
+- Your live device location is **never sent to our servers**. It is used on your device to render the map, to compute distance to gyms, and to center the map picker. The only location data we persist is the coordinates **you explicitly choose** when pinning a gym (which describe the gym, not you).
+- You can deny or revoke location permission at any time in your device's settings. The app continues to work — only the "find nearest gym" sort and the map-pin feature are affected.
+
+### 1.4 Data we do not collect
 - We do not access your contacts, calendar, or messages.
 - We do not collect health or fitness data from Apple Health or Google Fit.
+- We do not track your background location.
 
 ---
 
@@ -41,13 +47,14 @@ If you have any questions about this policy or want to exercise your data protec
 | Computing your rank, tier, and progression | Performance of a contract |
 | Displaying your lifts to friends, gym members, and other users | Performance of a contract |
 | Sending you transactional emails (verification, password reset) | Performance of a contract |
+| Showing nearby gyms and letting you pin a gym to its real-world spot | Your consent (Art. 6(1)(a) GDPR) |
 | Detecting fraud, abuse, or misuse of the platform | Legitimate interest (Art. 6(1)(f) GDPR) |
 | Improving the app and fixing bugs | Legitimate interest |
 | Serving personalized ads | Your consent (Art. 6(1)(a) GDPR) |
 | Serving non-personalized ads | Legitimate interest |
 | Complying with legal obligations | Legal obligation (Art. 6(1)(c) GDPR) |
 
-You may withdraw your consent for personalized advertising at any time through the in-app consent settings or your device's privacy settings.
+You may withdraw your consent for personalized advertising or for location features at any time through the in-app consent settings or your device's privacy settings.
 
 ---
 
@@ -73,6 +80,7 @@ Some of our processors are located outside the European Economic Area (EEA), pri
 - **Account and profile data**: kept for as long as your account is active. If you delete your account, this data is removed within 30 days.
 - **Lifts and feed content**: kept until you delete the specific lift or your account.
 - **Verification videos**: kept until you delete the lift, your account, or until the video is removed for moderation reasons.
+- **Gym location pins**: kept for as long as the gym record exists. Gym owners can clear the pin at any time from the gym edit screen.
 - **Backups**: encrypted backups may retain a copy of deleted data for up to 35 days before they roll off.
 - **Logs and analytics**: kept for up to 90 days for security and debugging purposes.
 - **Advertising identifiers**: refreshed by your device's operating system; we do not retain them after a session.
@@ -89,7 +97,7 @@ If you are in the EEA, the United Kingdom, or Switzerland, you have the followin
 - **Restriction** — restrict how we process your data in certain situations.
 - **Portability** — receive your data in a structured, machine-readable format.
 - **Objection** — object to processing based on legitimate interests, including profiling.
-- **Withdraw consent** — withdraw any consent you have given (e.g. for personalized ads) at any time.
+- **Withdraw consent** — withdraw any consent you have given (e.g. for personalized ads or location features) at any time.
 - **Lodge a complaint** — file a complaint with a supervisory authority, such as the Norwegian Data Protection Authority (Datatilsynet) at <https://www.datatilsynet.no>.
 
 To exercise any of these rights, email axel.grefslie@icloud.com. We will respond within 30 days.
@@ -98,7 +106,7 @@ To exercise any of these rights, email axel.grefslie@icloud.com. We will respond
 
 ## 6. Children's privacy
 
-IronRank is not intended for children under 16. We do not knowingly collect personal data from anyone under 16. If you believe a child has provided us with personal data, please contact us and we will delete the information promptly.
+Lifting League is not intended for children under 16. We do not knowingly collect personal data from anyone under 16. If you believe a child has provided us with personal data, please contact us and we will delete the information promptly.
 
 ---
 
@@ -118,7 +126,7 @@ No system is perfectly secure. If you discover a vulnerability, please report it
 
 ## 8. Cookies and similar technologies
 
-The IronRank mobile app does not use traditional browser cookies. It does use local storage on your device to keep you signed in and to cache feed content. The Google AdMob SDK may store identifiers on your device for ad delivery and frequency capping; this behaviour is governed by Google's privacy policy.
+The Lifting League mobile app does not use traditional browser cookies. It does use local storage on your device to keep you signed in and to cache feed content. The Google AdMob SDK may store identifiers on your device for ad delivery and frequency capping; this behaviour is governed by Google's privacy policy.
 
 ---
 
